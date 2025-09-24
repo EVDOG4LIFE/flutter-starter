@@ -1,5 +1,5 @@
 # Flutter Starter Kit with Appwrite
-
+ 
 Kickstart your Flutter development with this ready-to-use starter project integrated
 with [Appwrite](https://appwrite.io).
 
