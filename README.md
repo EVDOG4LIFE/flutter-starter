@@ -11,7 +11,7 @@ This guide will help you quickly set up, customize, and build your Flutter app.
 
 ### Clone the Project
 
-Clone this repository to your local machine using Git or directly from `Android Studio`:
+Clone this repository to your local machine using Git or directly from `Android Studio`: 
 
 ```bash
 git clone https://github.com/appwrite/starter-for-flutter
